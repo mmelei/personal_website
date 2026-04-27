@@ -1,0 +1,18 @@
+/* Default link color */
+a {
+  color: #758BFD;  
+  text-decoration: none;
+}
+
+/* Hover state */
+a:hover {
+  color: #27187E;  
+  text-decoration: 2px;
+}
+
+/* Spacing for content*/
+body {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
