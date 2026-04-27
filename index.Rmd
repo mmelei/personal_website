@@ -15,6 +15,6 @@ knitr::include_graphics("images/IMG_7220.JPG")
 
 ::: {.column width="50%" style="text-align: left;"}
 
-As a recent Master of Public Health (MPH) graduate, I am passionate about public health and epidemiology. I hope to find more opportunities to work or intern within the epidemiology field. I have significant experience in SAS, R, STATA, and excel. I am also fluent in the Spanish language. Working as a Research Assistant, Intern, Compliance Specialist, and Manager I have learned various leadership, organizational, and analytic skills. More information can be found at my  [Linkedin Profile](https://www.linkedin.com/in/mele-mafi-380193195/). 
+As a recent Master of Public Health (MPH) graduate, I am passionate about public health and epidemiology. I hope to find more opportunities to work or intern within the the field with specific interest in HIV and health services research. Working as a Research Assistant, Intern, Compliance Specialist, and Manager I have learned various leadership, organizational, and analytic skills. Additional information can be found at my [Linkedin Profile](https://www.linkedin.com/in/mele-mafi-380193195/). 
 
 :::
