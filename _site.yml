@@ -17,7 +17,6 @@ navbar:
   right:
   - href: https://github.com/mmelei
     icon: fa-github
-output_dir: docs
 output:
   html_document:
     theme: zephyr
