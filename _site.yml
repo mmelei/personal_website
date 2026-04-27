@@ -17,6 +17,8 @@ navbar:
   right:
   - href: https://github.com/mmelei
     icon: fa-github
+  - href: https://www.linkedin.com/in/mele-mafi-380193195/
+    icon: fa-linkedin
 output_dir: docs
 output:
   html_document:
