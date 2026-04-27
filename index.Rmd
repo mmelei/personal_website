@@ -2,8 +2,19 @@
 title: "My Website"
 ---
 
-Hello, Website!
+::: columns
+::: {.column width="50%" style="text-align: center;"}
 
-For more information about simple R Markdown websites, please read the documentation at https://yihui.org/rmarkdown/rmarkdown-site.html.
+```{r, echo=FALSE, fig.align='center', out.width='40%'}
+knitr::include_graphics("images/IMG_7220.JPG")
+```
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+## Mele Mafi
+
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+
+As a recent Master of Public Health (MPH) graduate, I am passionate about public health and epidemiology. I hope to find more opportunities to work or intern within the epidemiology field. I have significant experience in SAS, R, STATA, and excel. I am also fluent in the Spanish language. Working as a Research Assistant, Intern, Compliance Specialist, and Manager I have learned various leadership, organizational, and analytic skills. More information can be found at my  [Linkedin Profile](https://www.linkedin.com/in/mele-mafi-380193195/). 
+
+:::

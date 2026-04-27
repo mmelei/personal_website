@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+### [M Cubed Dashboard](https://github.com/mmelei/Dashboard)
+
+A dashboard created from thesis data to represent findings.
+
+### [Reproducible Report](https://github.com/mmelei/M_cubed_repo)
+
+An automated reproducible report for the M cubed project. 
