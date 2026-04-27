@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: ""
+  title: " "
   left:
   - text: Home
     href: index.html
@@ -12,7 +12,7 @@ navbar:
     href: projects.html
     icon: fa-folder
   - text: Resume
-    href: files/resume.pdf
+    href: files/Resume.pdf
     icon: fa-paperclip
   right:
   - href: https://github.com/mmelei
